@@ -1,0 +1,7 @@
+Instrukciók a programhoz:
+A + gombbal történik a fényerő növelése, - gombbal a csökkentése.
+Az M és N gombokkal történik a fény irányának a szabályozása.
+Kiléphetünk a Q billentyűvel.
+
+A programban egy fa látható, amely saját tengelye körül forog körbe-körbe állandó sebességgel. 3 textúrát használtam, egy dobozt, amely az eget adja, egy földet, amin a fa áll és a fának a zöld textúráját.
+
